@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Event 1",
+      "start": "2016-01-01",
+      "end": "2016-01-01",
+      "category": "sports"
+    },
+    {
+      "id": "2",
+      "title": "Event 2",
+      "start": "2017-01-01",
+      "end": "2017-01-01",
+      "category": "technology"
+    },
+    {
+      "id": "3",
+      "title": "Event 3",
+      "start": "2018-01-01",
+      "end": "2018-01-01",
+      "category": "technology"
+    },
+    {
+      "id": "4",
+      "title": "Event 4",
+      "start": "2019-01-01",
+      "end": "2019-01-01",
+      "category": "sports"
+    },
+    {
+      "id": "5",
+      "title": "Event 5",
+      "start": "2020-01-01",
+      "end": "2020-01-01",
+      "category": "sports"
+    },
+    {
+      "id": "6",
+      "title": "Event 6",
+      "start": "2021-01-01",
+      "end": "2021-01-01",
+      "category": "technology"
+    },
+    {
+      "id": "7",
+      "title": "Event 7",
+      "start": "2022-01-01",
+      "end": "2022-01-01",
+      "category": "technology"
+    },
+    {
+      "id": "8",
+      "title": "Event 8",
+      "start": "2023-01-01",
+      "end": "2023-01-01",
+      "category": "sports"
+    },
+    {
+      "id": "9",
+      "title": "Event 9",
+      "start": "2024-01-01",
+      "end": "2024-01-01",
+      "category": "sports"
+    },
+    {
+        "id": "10",
+        "title": "Event 10",
+        "start": "2025-01-01",
+        "end": "2025-01-01",
+        "category": "technology"
+    }
+  ],
+  "dashboard": {
+    "posts": 5,
+    "comments": 10,
+    "followers": 200,
+    "following": 30,
+    "views": 40
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "Новость 1",
+      "text": "Текст новости 1",
+      "date": "01.01.2020",
+      "category": "sport"
+    },
+    {
+      "id": 2,
+      "title": "Новость 2",
+      "text": "Текст новости 2",
+      "date": "02.01.2020",
+      "category": "polictic"
+    },
+    {
+      "id": 3,
+      "title": "Новость 3",
+      "text": "Текст новости 3",
+      "date": "03.01.2020",
+      "category": "sport"
+    }
+  ]
+}
